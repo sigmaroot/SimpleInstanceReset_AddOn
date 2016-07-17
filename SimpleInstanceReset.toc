@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: SimpleInstanceReset (v1.2)
-## Author: Steven M.(admin@sigmaroot.de)
+## Title: SimpleInstanceReset (v1.3)
+## Author: Steven M. (admin@sigmaroot.de)
 ## Notes: Ermöglicht die Benutzung eines Kurzbefehles zum Zurücksetzen deiner Instanzen (/sir)
 SimpleInstanceReset.xml
